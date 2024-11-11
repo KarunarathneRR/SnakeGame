@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="game_over_play_again">Game Over ! Play Again</string>
+    <string name="new_game">New Game</string>
+    <string name="down">DOWN</string>
+    <string name="right">RIGHT</string>
+    <string name="pause">pause</string>
+    <string name="left">LEFT</string>
+    <string name="up">UP</string>
+    <string name="resume_game">Resume Game</string>
+    <string name="score">score</string>
+    <string name="high_score_0">High Score: 0</string>
+</resources>
